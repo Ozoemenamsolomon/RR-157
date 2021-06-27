@@ -1,0 +1,32 @@
+{
+  "name": "rr-157",
+  "version": "1.0.0",
+  "description": "Website for Royal-Rangers 157 Outpost",
+  "main": "server.js",
+  "scripts": {
+    "build:css": "tailwind build scr/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ozoemenamsolomon/RR-157.git"
+  },
+  "keywords": [
+    "Royal-Rangers",
+    "Germany",
+    "Essen",
+    "157",
+    "RR",
+    "Deutschland"
+  ],
+  "author": "Solomon Obinna Ozoemenam <https://www.solozo.page>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ozoemenamsolomon/RR-157/issues"
+  },
+  "homepage": "https://github.com/Ozoemenamsolomon/RR-157#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
